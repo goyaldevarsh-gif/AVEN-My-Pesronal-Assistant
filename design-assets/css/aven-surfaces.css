@@ -1,0 +1,5 @@
+/* Subtle backgrounds (replace the textured tiles on the board; zero image requests) */
+.aven-surface-wave{background:radial-gradient(120% 80% at 80% 0%,#3AB8AC 0%,transparent 60%),linear-gradient(135deg,#1B8F86,#0F4A5A)}
+.aven-surface-cream{background:linear-gradient(160deg,#FBF8F2,#EFEAE0)}
+.aven-surface-deep{background:radial-gradient(100% 70% at 20% 100%,#1F7F7A 0%,transparent 60%),linear-gradient(160deg,#17586A,#102A43)}
+.aven-scrim{background:linear-gradient(to top,#102A43CC,transparent)}

@@ -1,0 +1,682 @@
+[
+ {
+  "id": "onboarding-01-meet-aven",
+  "section": "onboarding",
+  "screen": "Onboarding (first launch only)",
+  "component": "Slide 1 \"Meet AVEN\"",
+  "displaySize": "200 px",
+  "note": "",
+  "file": "illustrations/onboarding/onboarding-01-meet-aven.webp",
+  "sourcePx": [
+   119,
+   118
+  ],
+  "px": [
+   357,
+   354
+  ]
+ },
+ {
+  "id": "onboarding-02-plan-organise",
+  "section": "onboarding",
+  "screen": "Onboarding (first launch only)",
+  "component": "Slide 2 \"Plan & Organise\"",
+  "displaySize": "200 px",
+  "note": "",
+  "file": "illustrations/onboarding/onboarding-02-plan-organise.webp",
+  "sourcePx": [
+   119,
+   109
+  ],
+  "px": [
+   357,
+   327
+  ]
+ },
+ {
+  "id": "onboarding-03-capture-everything",
+  "section": "onboarding",
+  "screen": "Onboarding (first launch only)",
+  "component": "Slide 3 \"Capture Everything\"",
+  "displaySize": "200 px",
+  "note": "",
+  "file": "illustrations/onboarding/onboarding-03-capture-everything.webp",
+  "sourcePx": [
+   117,
+   106
+  ],
+  "px": [
+   351,
+   318
+  ]
+ },
+ {
+  "id": "onboarding-04-stay-proactive",
+  "section": "onboarding",
+  "screen": "Onboarding (first launch only)",
+  "component": "Slide 4 \"Stay Proactive\"",
+  "displaySize": "200 px",
+  "note": "",
+  "file": "illustrations/onboarding/onboarding-04-stay-proactive.webp",
+  "sourcePx": [
+   117,
+   115
+  ],
+  "px": [
+   351,
+   345
+  ]
+ },
+ {
+  "id": "onboarding-05-your-life-in-sync",
+  "section": "onboarding",
+  "screen": "Onboarding (first launch only)",
+  "component": "Slide 5 \"Your Life, in Sync\"",
+  "displaySize": "200 px",
+  "note": "",
+  "file": "illustrations/onboarding/onboarding-05-your-life-in-sync.webp",
+  "sourcePx": [
+   120,
+   101
+  ],
+  "px": [
+   360,
+   303
+  ]
+ },
+ {
+  "id": "module-today",
+  "section": "modules",
+  "screen": "Morning Briefing detail",
+  "component": "Trailing image in large-title header (hides on scroll)",
+  "displaySize": "48 px",
+  "note": "",
+  "file": "illustrations/modules/module-today.webp",
+  "sourcePx": [
+   122,
+   84
+  ],
+  "px": [
+   366,
+   252
+  ]
+ },
+ {
+  "id": "module-tasks",
+  "section": "modules",
+  "screen": "Plan > My Tasks",
+  "component": "Trailing image in large-title header (hides on scroll)",
+  "displaySize": "48 px",
+  "note": "",
+  "file": "illustrations/modules/module-tasks.webp",
+  "sourcePx": [
+   110,
+   79
+  ],
+  "px": [
+   330,
+   237
+  ]
+ },
+ {
+  "id": "module-calendar",
+  "section": "modules",
+  "screen": "Plan > Calendar",
+  "component": "Trailing image in large-title header (hides on scroll)",
+  "displaySize": "48 px",
+  "note": "",
+  "file": "illustrations/modules/module-calendar.webp",
+  "sourcePx": [
+   101,
+   83
+  ],
+  "px": [
+   303,
+   249
+  ]
+ },
+ {
+  "id": "module-projects",
+  "section": "modules",
+  "screen": "Plan > Projects",
+  "component": "Trailing image in large-title header (hides on scroll)",
+  "displaySize": "48 px",
+  "note": "",
+  "file": "illustrations/modules/module-projects.webp",
+  "sourcePx": [
+   91,
+   81
+  ],
+  "px": [
+   273,
+   243
+  ]
+ },
+ {
+  "id": "module-finance",
+  "section": "modules",
+  "screen": "Vault > Finance",
+  "component": "Trailing image in large-title header (hides on scroll)",
+  "displaySize": "48 px",
+  "note": "",
+  "file": "illustrations/modules/module-finance.webp",
+  "sourcePx": [
+   102,
+   84
+  ],
+  "px": [
+   306,
+   252
+  ]
+ },
+ {
+  "id": "module-people",
+  "section": "modules",
+  "screen": "Vault > People & Contacts",
+  "component": "Trailing image in large-title header (hides on scroll)",
+  "displaySize": "48 px",
+  "note": "",
+  "file": "illustrations/modules/module-people.webp",
+  "sourcePx": [
+   107,
+   78
+  ],
+  "px": [
+   321,
+   234
+  ]
+ },
+ {
+  "id": "module-travel",
+  "section": "modules",
+  "screen": "Vault > Travel",
+  "component": "Trailing image in large-title header (hides on scroll)",
+  "displaySize": "48 px",
+  "note": "",
+  "file": "illustrations/modules/module-travel.webp",
+  "sourcePx": [
+   94,
+   81
+  ],
+  "px": [
+   282,
+   243
+  ]
+ },
+ {
+  "id": "module-knowledge",
+  "section": "modules",
+  "screen": "Vault > Notes & Knowledge",
+  "component": "Trailing image in large-title header (hides on scroll)",
+  "displaySize": "48 px",
+  "note": "",
+  "file": "illustrations/modules/module-knowledge.webp",
+  "sourcePx": [
+   103,
+   66
+  ],
+  "px": [
+   309,
+   198
+  ]
+ },
+ {
+  "id": "module-memory",
+  "section": "modules",
+  "screen": "Vault > Memory",
+  "component": "Trailing image in large-title header (hides on scroll)",
+  "displaySize": "48 px",
+  "note": "",
+  "file": "illustrations/modules/module-memory.webp",
+  "sourcePx": [
+   73,
+   63
+  ],
+  "px": [
+   219,
+   189
+  ]
+ },
+ {
+  "id": "empty-tasks",
+  "section": "empty",
+  "screen": "Plan > Tasks (0 tasks, no filter)",
+  "component": "Empty state + one Add Task button",
+  "displaySize": "120 px",
+  "note": "",
+  "file": "illustrations/empty-states/empty-tasks.webp",
+  "sourcePx": [
+   133,
+   88
+  ],
+  "px": [
+   399,
+   264
+  ]
+ },
+ {
+  "id": "empty-events",
+  "section": "empty",
+  "screen": "Today calendar block / Plan day view (0 events)",
+  "component": "Empty state + Add Event",
+  "displaySize": "96-120 px",
+  "note": "",
+  "file": "illustrations/empty-states/empty-events.webp",
+  "sourcePx": [
+   127,
+   89
+  ],
+  "px": [
+   381,
+   267
+  ]
+ },
+ {
+  "id": "empty-search",
+  "section": "empty",
+  "screen": "Global search, Vault search, Assistant memory search (0 results)",
+  "component": "Empty state",
+  "displaySize": "120 px",
+  "note": "",
+  "file": "illustrations/empty-states/empty-search.webp",
+  "sourcePx": [
+   123,
+   87
+  ],
+  "px": [
+   369,
+   261
+  ]
+ },
+ {
+  "id": "notif-reminder",
+  "section": "notifications",
+  "screen": "Notification Centre + Settings > Notifications",
+  "component": "Category row icon: Reminder",
+  "displaySize": "36 px",
+  "note": "",
+  "file": "notifications/notif-reminder.webp",
+  "sourcePx": [
+   42,
+   46
+  ],
+  "px": [
+   168,
+   184
+  ]
+ },
+ {
+  "id": "notif-birthday",
+  "section": "notifications",
+  "screen": "Notification Centre + Settings > Notifications",
+  "component": "Category row icon: Birthday",
+  "displaySize": "36 px",
+  "note": "",
+  "file": "notifications/notif-birthday.webp",
+  "sourcePx": [
+   62,
+   56
+  ],
+  "px": [
+   248,
+   224
+  ]
+ },
+ {
+  "id": "notif-bill-due",
+  "section": "notifications",
+  "screen": "Notification Centre + Settings > Notifications",
+  "component": "Category row icon: Bill due (EMI, bills)",
+  "displaySize": "36 px",
+  "note": "",
+  "file": "notifications/notif-bill-due.webp",
+  "sourcePx": [
+   70,
+   50
+  ],
+  "px": [
+   280,
+   200
+  ]
+ },
+ {
+  "id": "notif-subscription",
+  "section": "notifications",
+  "screen": "Notification Centre + Settings > Notifications",
+  "component": "Category row icon: Subscription renewal",
+  "displaySize": "36 px",
+  "note": "",
+  "file": "notifications/notif-subscription.webp",
+  "sourcePx": [
+   64,
+   49
+  ],
+  "px": [
+   256,
+   196
+  ]
+ },
+ {
+  "id": "notif-goal-progress",
+  "section": "notifications",
+  "screen": "Notification Centre + Settings > Notifications",
+  "component": "Category row icon: Goal progress",
+  "displaySize": "36 px",
+  "note": "",
+  "file": "notifications/notif-goal-progress.webp",
+  "sourcePx": [
+   57,
+   55
+  ],
+  "px": [
+   228,
+   220
+  ]
+ },
+ {
+  "id": "category-work",
+  "section": "categories",
+  "screen": "Category: Work",
+  "component": "Inbox AI-classification sheet, category picker (task / note / project), Vault filter chips",
+  "displaySize": "40 px",
+  "note": "",
+  "file": "illustrations/categories/category-work.webp",
+  "sourcePx": [
+   65,
+   53
+  ],
+  "px": [
+   260,
+   212
+  ]
+ },
+ {
+  "id": "category-personal",
+  "section": "categories",
+  "screen": "Category: Personal",
+  "component": "Inbox AI-classification sheet, category picker (task / note / project), Vault filter chips",
+  "displaySize": "40 px",
+  "note": "",
+  "file": "illustrations/categories/category-personal.webp",
+  "sourcePx": [
+   72,
+   55
+  ],
+  "px": [
+   288,
+   220
+  ]
+ },
+ {
+  "id": "category-health",
+  "section": "categories",
+  "screen": "Category: Health & Fitness",
+  "component": "Inbox AI-classification sheet, category picker (task / note / project), Vault filter chips",
+  "displaySize": "40 px",
+  "note": "",
+  "file": "illustrations/categories/category-health.webp",
+  "sourcePx": [
+   76,
+   50
+  ],
+  "px": [
+   304,
+   200
+  ]
+ },
+ {
+  "id": "category-shopping",
+  "section": "categories",
+  "screen": "Category: Shopping",
+  "component": "Inbox AI-classification sheet, category picker (task / note / project), Vault filter chips",
+  "displaySize": "40 px",
+  "note": "",
+  "file": "illustrations/categories/category-shopping.webp",
+  "sourcePx": [
+   58,
+   57
+  ],
+  "px": [
+   232,
+   228
+  ]
+ },
+ {
+  "id": "category-investments",
+  "section": "categories",
+  "screen": "Category: Investments",
+  "component": "Inbox AI-classification sheet, category picker (task / note / project), Vault filter chips",
+  "displaySize": "40 px",
+  "note": "Same art reused for Finance > Investments category",
+  "file": "illustrations/categories/category-investments.webp",
+  "sourcePx": [
+   53,
+   51
+  ],
+  "px": [
+   212,
+   204
+  ]
+ },
+ {
+  "id": "category-family",
+  "section": "categories",
+  "screen": "Category: Family",
+  "component": "Inbox AI-classification sheet, category picker (task / note / project), Vault filter chips",
+  "displaySize": "40 px",
+  "note": "",
+  "file": "illustrations/categories/category-family.webp",
+  "sourcePx": [
+   78,
+   57
+  ],
+  "px": [
+   312,
+   228
+  ]
+ },
+ {
+  "id": "category-goals",
+  "section": "categories",
+  "screen": "Category: Goals",
+  "component": "Inbox AI-classification sheet, category picker (task / note / project), Vault filter chips",
+  "displaySize": "40 px",
+  "note": "",
+  "file": "illustrations/categories/category-goals.webp",
+  "sourcePx": [
+   52,
+   53
+  ],
+  "px": [
+   208,
+   212
+  ]
+ },
+ {
+  "id": "category-learning",
+  "section": "categories",
+  "screen": "Category: Learning",
+  "component": "Inbox AI-classification sheet, category picker (task / note / project), Vault filter chips",
+  "displaySize": "40 px",
+  "note": "",
+  "file": "illustrations/categories/category-learning.webp",
+  "sourcePx": [
+   75,
+   52
+  ],
+  "px": [
+   300,
+   208
+  ]
+ },
+ {
+  "id": "category-travel",
+  "section": "categories",
+  "screen": "Category: Travel",
+  "component": "Inbox AI-classification sheet, category picker (task / note / project), Vault filter chips",
+  "displaySize": "40 px",
+  "note": "Also used for the Trip update notification (no separate asset)",
+  "file": "illustrations/categories/category-travel.webp",
+  "sourcePx": [
+   52,
+   46
+  ],
+  "px": [
+   208,
+   184
+  ]
+ },
+ {
+  "id": "category-lifestyle",
+  "section": "categories",
+  "screen": "Category: Lifestyle",
+  "component": "Inbox AI-classification sheet, category picker (task / note / project), Vault filter chips",
+  "displaySize": "40 px",
+  "note": "",
+  "file": "illustrations/categories/category-lifestyle.webp",
+  "sourcePx": [
+   61,
+   52
+  ],
+  "px": [
+   244,
+   208
+  ]
+ },
+ {
+  "id": "ai-orb-idle",
+  "section": "assistant",
+  "screen": "Assistant tab",
+  "component": "Idle hero orb; 28 px as message avatar. Listening / processing / speaking are CSS states on top (css/ai-states.css)",
+  "displaySize": "96 px / 28 px",
+  "note": "",
+  "file": "assistant/ai-orb-idle.webp",
+  "sourcePx": [
+   99,
+   104
+  ],
+  "px": [
+   297,
+   312
+  ]
+ },
+ {
+  "id": "banner-work-productivity",
+  "section": "banners",
+  "screen": "Category landing header (Work & Productivity) and dismissible Today \"focus area\" card",
+  "component": "Photographic banner, one visible at a time, text drawn over a navy gradient",
+  "displaySize": "390 x 110 pt",
+  "note": "",
+  "file": "banners/banner-work-productivity.webp",
+  "sourcePx": [
+   221,
+   85
+  ],
+  "px": [
+   663,
+   255
+  ]
+ },
+ {
+  "id": "banner-health-fitness",
+  "section": "banners",
+  "screen": "Category landing header (Health & Fitness) and dismissible Today \"focus area\" card",
+  "component": "Photographic banner, one visible at a time, text drawn over a navy gradient",
+  "displaySize": "390 x 110 pt",
+  "note": "",
+  "file": "banners/banner-health-fitness.webp",
+  "sourcePx": [
+   201,
+   85
+  ],
+  "px": [
+   603,
+   255
+  ]
+ },
+ {
+  "id": "banner-travel-leisure",
+  "section": "banners",
+  "screen": "Category landing header (Travel & Leisure) and dismissible Today \"focus area\" card",
+  "component": "Photographic banner, one visible at a time, text drawn over a navy gradient",
+  "displaySize": "390 x 110 pt",
+  "note": "",
+  "file": "banners/banner-travel-leisure.webp",
+  "sourcePx": [
+   195,
+   85
+  ],
+  "px": [
+   585,
+   255
+  ]
+ },
+ {
+  "id": "banner-learning-growth",
+  "section": "banners",
+  "screen": "Category landing header (Learning & Growth) and dismissible Today \"focus area\" card",
+  "component": "Photographic banner, one visible at a time, text drawn over a navy gradient",
+  "displaySize": "390 x 110 pt",
+  "note": "",
+  "file": "banners/banner-learning-growth.webp",
+  "sourcePx": [
+   193,
+   85
+  ],
+  "px": [
+   579,
+   255
+  ]
+ },
+ {
+  "id": "banner-money-investments",
+  "section": "banners",
+  "screen": "Category landing header (Money & Investments) and dismissible Today \"focus area\" card",
+  "component": "Photographic banner, one visible at a time, text drawn over a navy gradient",
+  "displaySize": "390 x 110 pt",
+  "note": "",
+  "file": "banners/banner-money-investments.webp",
+  "sourcePx": [
+   187,
+   85
+  ],
+  "px": [
+   561,
+   255
+  ]
+ },
+ {
+  "id": "banner-family-relationships",
+  "section": "banners",
+  "screen": "Category landing header (Family & Relationships) and dismissible Today \"focus area\" card",
+  "component": "Photographic banner, one visible at a time, text drawn over a navy gradient",
+  "displaySize": "390 x 110 pt",
+  "note": "",
+  "file": "banners/banner-family-relationships.webp",
+  "sourcePx": [
+   202,
+   85
+  ],
+  "px": [
+   606,
+   255
+  ]
+ },
+ {
+  "id": "banner-goals-growth",
+  "section": "banners",
+  "screen": "Category landing header (Goals & Personal Growth) and dismissible Today \"focus area\" card",
+  "component": "Photographic banner, one visible at a time, text drawn over a navy gradient",
+  "displaySize": "390 x 110 pt",
+  "note": "",
+  "file": "banners/banner-goals-growth.webp",
+  "sourcePx": [
+   203,
+   85
+  ],
+  "px": [
+   609,
+   255
+  ]
+ }
+]

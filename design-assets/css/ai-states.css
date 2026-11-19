@@ -1,0 +1,15 @@
+/* AI assistant states around ai-orb-idle.webp. Wrap: <div class="aven-orb aven-orb--listening"><img ...></div> */
+.aven-orb{position:relative;width:96px;height:96px;display:grid;place-items:center}
+.aven-orb img{width:100%;height:100%;object-fit:contain}
+.aven-orb--listening::before,.aven-orb--listening::after{content:"";position:absolute;inset:0;border-radius:50%;border:2px solid #4FCDBF;animation:aven-ring 2s ease-out infinite}
+.aven-orb--listening::after{animation-delay:1s}
+@keyframes aven-ring{0%{transform:scale(1);opacity:.6}100%{transform:scale(1.3);opacity:0}}
+.aven-orb--processing::before{content:"";position:absolute;inset:-4px;border-radius:50%;border:3px solid transparent;border-top-color:#20A69A;animation:aven-spin .9s linear infinite}
+.aven-orb--speaking img{animation:aven-breathe 1.2s ease-in-out infinite}
+@keyframes aven-breathe{0%,100%{transform:scale(1)}50%{transform:scale(1.05)}}
+@keyframes aven-spin{to{transform:rotate(360deg)}}
+.aven-wave{display:flex;align-items:center;gap:6px;height:48px}
+.aven-wave i{width:6px;border-radius:3px;background:#20A69A;height:100%;animation:aven-bar .9s ease-in-out infinite;transform:scaleY(.3)}
+.aven-wave i:nth-child(2n){animation-delay:.15s}.aven-wave i:nth-child(3n){animation-delay:.3s}
+@keyframes aven-bar{0%,100%{transform:scaleY(.3)}50%{transform:scaleY(1)}}
+@media (prefers-reduced-motion:reduce){.aven-orb *,.aven-orb::before,.aven-orb::after,.aven-wave i{animation:none!important}}

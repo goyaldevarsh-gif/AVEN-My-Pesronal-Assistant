@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* AVEN design tokens (RGB triplets so Tailwind opacity works). Light = default. */
+:root {
+  --bg: 246 248 250; --surface: 255 255 255; --surface2: 238 242 245; --line: 230 235 239;
+  --ink: 23 43 58; --ink2: 113 128 150; --navy: 16 42 67; --accent: 32 166 154; --accent-soft: 230 245 243;
+  --warn: 217 119 87; --ok: 34 197 94;
+  color-scheme: light;
+}
+.dark {
+  --bg: 11 23 34; --surface: 16 35 49; --surface2: 23 48 63; --line: 36 64 79;
+  --ink: 232 238 242; --ink2: 159 179 194; --navy: 143 180 214; --accent: 44 196 182; --accent-soft: 18 59 58;
+  --warn: 229 139 109; --ok: 61 210 122;
+  color-scheme: dark;
+}
+@layer base {
+  html, body, #root { height: 100%; }
+  body { @apply bg-bg text-ink font-sans antialiased; -webkit-tap-highlight-color: transparent; overscroll-behavior-y: none; }
+  input, textarea, select { font-size: 16px; } /* prevents iOS zoom on focus */
+  button { @apply select-none; }
+}
+@layer components {
+  .pt-safe { padding-top: env(safe-area-inset-top); }
+  .pb-safe { padding-bottom: env(safe-area-inset-bottom); }
+}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
